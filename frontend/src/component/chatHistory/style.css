@@ -1,0 +1,106 @@
+.ant-list-item {
+    color: white !important;
+}
+
+.scrollableDiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0 !important;
+    background-color: #242424;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+
+.ant-list-item, .ant-list-item-meta-content, .list-heading, .list-icon {
+    color: white !important;
+}
+
+.ant-list-item {
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 0;
+    cursor: pointer;
+    padding: 5px !important;
+}
+
+.ant-list-items {
+    padding: 20px;
+    margin: 20px;
+    margin-top: 30px;
+    width: 95%;
+    background-color: #242424;
+}
+
+.ant-list-item-meta-content {
+    background-color: #2C2F2E;
+    color:white;
+    padding: 10px 50px 5px 10px;
+    border-radius: 20px;
+    width: 100% !important;
+}
+
+.ant-list-item-meta-content:hover {
+    background-color: #575757;
+    transition: 0.3s;
+}
+
+.list-heading {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+}
+
+.list-heading-history{
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 3px;
+    color: white;
+}
+
+.list-icon-back {
+    height: 40px;
+    width: 40px;
+    background: #2F2F2F;
+    border-radius: 50%;
+    padding: 9px;
+}
+
+.list-icon-new-chat {
+    height: 40px;
+    width: 40px;
+    background: #2F2F2F;
+    border-radius: 50%;
+    padding: 9px;
+}
+
+.chat-item {
+    width: 100%;
+    color: white;
+}
+
+.selected-chat {
+    color:white;
+}
+
+.selected-chat > .ant-list-item-meta-content {
+    background-color: #575757;
+    color: white !important;
+}
+
+.ant-list-item {
+    color: white !important;
+}
+
+.date-heading {
+    color : white;
+    text-align: center;
+
+}
+
+a{
+    color: white;
+}

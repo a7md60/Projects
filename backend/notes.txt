@@ -1,0 +1,23 @@
+- speech to text
+- where to host 
+- chat history
+    Features/tasks to implement:
+        - designing DB schema 
+        - creating models
+        - writing crud apis
+        - creating frontend chat module
+        - implementing transactions in existing code for message saving
+        - fetching chat history from db to send in prompt
+        - frontend API calls to backend
+    models
+        - user
+        - chat_window_table
+        - other_chat_tables
+        - ...
+
+    apis
+        - to get all chat for the users
+        - to get messages of a chat
+        - ...
+
+    Authentication ?? 
